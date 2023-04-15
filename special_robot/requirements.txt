@@ -1,0 +1,5 @@
+nxt-python
+pillow
+requests
+matplotlib
+regex
